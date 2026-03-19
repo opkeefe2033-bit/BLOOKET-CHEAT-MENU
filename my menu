@@ -44,7 +44,7 @@
         iframe.style.display = "none";
         document.body.append(iframe);
     }
-    /* By CryptoDude3 */
+    /* By Vempy */
     if (window.fetch.call.toString() == 'function call() { [native code] }') {
         const call = window.fetch.call;
         window.fetch.call = function () {
@@ -54,7 +54,7 @@
     const timeProcessed = 1732772251920;
     let latestProcess = -1;
     const cheat = (async () => {
-        /* Anti-Suspend By CryptoDude3 */
+        /* Anti-Suspend By Vempy */
         if (window.fetch.call.toString() == "function call() { [native code] }") {
             const call = window.fetch.call;
             window.fetch.call = function () {
@@ -246,7 +246,7 @@
                         fontWeight: "700",
                         userSelect: "text",
                     },
-                    innerHTML: "GitHub - 05Konzz",
+                    innerHTML: "GitHub - Vempy",
                     onclick: () => window.open("https://github.com/Blooket-Council/Blooket-Cheats", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
