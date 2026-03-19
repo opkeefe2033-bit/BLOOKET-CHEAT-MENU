@@ -246,7 +246,7 @@
                         fontWeight: "700",
                         userSelect: "text",
                     },
-                    innerHTML: "GitHub - Vempy",
+                    innerHTML: "GitHub - https://github.com/opkeefe2033-bit",
                     onclick: () => window.open("https://github.com/Blooket-Council/Blooket-Cheats", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
